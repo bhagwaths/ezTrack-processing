@@ -16,11 +16,11 @@ This repository contains Python and MATLAB scripts for batch processing and anal
 
 - **ProcessOutputFiles**
 
-  This live script crops raw ezTrack output to match parameters for each stage in contextual fear conditioning. It also a inserts timestamps column marking onset of each conditioned stimulus. *Must be run before using PhotometryFreezingAnalysis and SignalVideoAnimation.*
+  This live script crops raw ezTrack output to match parameters for each stage in the contextual fear conditioning paradigm. It also a inserts timestamps column marking onset of each conditioned stimulus. *Must be run before using PhotometryFreezingAnalysis and SignalVideoAnimation.*
 
 - **SignalVideoAnimation**
 
-  This script generates a segment of a behavioral video that is synced to a fiber photometry trace and a label of freezing or moving. It exports the video at a specified frame rate.
+  This script generates a segment of a behavioral video that is synced to a fiber photometry trace and a label of freezing or moving. It exports the combined animation at a specified frame rate.
 
 ## References
 
